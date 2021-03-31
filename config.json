@@ -6,9 +6,9 @@
         "LINE_channel_access_token" : ""
     },
     "設定方法の例(上のやつに設定してください)":{
-        "reserva_id":"ここにレゼルバのログイン用メアド",
+        "reserva_id":"レゼルバのログイン用メアド",
         "reserva_pass":"reservaのログイン用パスワード",
-        "webdriver_pass":"ここにChromeのwebdriverのファイルのパス",
+        "webdriver_pass":"Chromeのwebdriverのファイルのパス",
         "LINE_channel_access_token" : "LINEのチャンネルアクセストークン"
     }
 }
